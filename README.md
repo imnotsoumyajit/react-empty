@@ -1,3 +1,7 @@
+*Feel free to clone this repo before a react project*
+*This is free of all unnecessary files and folders *
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
